@@ -10,7 +10,38 @@
                     <persName role="composer">Chopin</persName>
                 </respStmt>
             </titleStmt>
-            <pubStmt></pubStmt>
+            <!--edited by me-->
+            <pubStmt>
+                <publisher>
+                   <corpName>University of Glasgow Information Studies</corpName>
+                </publisher>
+                <address>
+                  <addrLine>
+                    <geogName>Glasgow</geogName>
+                  </addrLine>
+                  <addrLine>
+                    <geogName>United Kingdom</geogName>
+                  </addrLine>
+                </address>
+            </pubStmt>
+            <editionStmt>
+                <title>Frédéric Chopin's Deux Nocturnes, Op. 55 No 1.</title>
+                 <editor></editor>
+                 <date>1843</date>
+                 <pubPlace>Poland(?)</pubPlace>
+                 <respStmt>
+                   <resp>Published by</resp>
+                   <corpName role=”pbl”></corpName>
+                 </respStmt>
+              <edition>
+                <date>2018-06-12</date>
+                <respStmt>
+                   <resp>Revised by</resp>
+                   <name>Rosie O'Rourke</name>
+                </respStmt>
+              </edition>
+            </editionStmt>
+            <!--finito editing-->
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000001664544106">
             <appInfo xml:id="appinfo-0000001884029971">
