@@ -1,7 +1,7 @@
 # MCA
 \[Enter your responses to Week 1, tasks 2 and 3 here\]
 
-Week 1
+<b>Week 1</b>
 This week consisted of creating our Github accounts and starting to learn the basics of Github. This is represented in the way I was able to create this page. We were also asked to find 3 different sources of music data and consider the traits of each source. 
 
 <b>Spotify</b>
@@ -33,3 +33,15 @@ For the individual lab task, we were asked to trancribe at least 10 bars of musi
 
 
 <b>Week 3</b>
+The group task for this week was to analyse an uncompressed music xml version of our transcribed music. I opened up the XML version in Notepad ++ and explored this version usefulness. 
+<br></br>
+
+<i>How are pitch, rhythm, and time represented in the XML file?</i>
+These features are represented in a typical coding style with tags. The pitch tag contains two sub tags which is 'step' and 'octave' and occasionally the subtag 'alter', this is used for every single note that has been transcribed. The rhythm and time of the piece which is usually identified as a time signature features in the 'attributes' tag of the XML file. Furthermore the time signature is held in a 'time' tag which includes the direct tag of 'beats' which describes the number beats in a measure, and a 'beat-type' tag which describes the type of note present. Time is also represented in a unique way as the XML file describes the distance of the staff in millimetres instead of the actual duration which MuseScore presents.
+
+<i>Is there data that is excluded from this encoding standard?</i>
+XML does not include the dynamic changes such as the music getting louder or quieter in it's standard. As these are smaller details that are not necassary within a piece it is possible that the encoding standard doesn't know to represent these details in a code.   
+
+<i>What are potential strengths and weaknesses of this approach?</i>
+This approach is useful for someone who has limited musical knowledge as it explains what each note represents. For instance the XML version includes the tag 'sign' which explains the actual note type such as a G or an F, the 'line' tag then indicates which line of the staff this note appears on. This information is not presented in MuseScore as this is considered to be prior knowledge. An obvious weakness of this approach is that it does not play the audio of the piece, and it is difficult to imagine what the piece would sound like when reading numbers from a code. As each note has so many details attatched to it, the coding representation is also harder to follow compared to following the staff on the MuseScore version. The user has to scroll past thousands of lines of coding making it quite inefficent and time consuming.
+
