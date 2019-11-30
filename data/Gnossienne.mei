@@ -10,7 +10,12 @@
                     <persName role="composer">Erik Satie</persName>
                 </respStmt>
             </titleStmt>
-            <pubStmt></pubStmt>
+            <pubStmt>
+                <date>1893</date>
+                <pubPlace>Paris</pubPlace>
+                <address>3 Rue Cortot, 75018 Paris, France</address>
+                <publisher>Erik Satie</publisher>
+            </pubStmt>
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000001742740467">
             <appInfo xml:id="appinfo-0000000578199216">
