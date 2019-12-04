@@ -1,5 +1,17 @@
 # MCA
-\[Enter your responses to Week 1, tasks 2 and 3 here\]
+
+ <div class="menu">
+    <a href="#">Week 1</a>
+    <a href="#">Week 2</a>
+    <a href="#">Week 3</a>
+    <a href="Week_4/Week_4.html">Week 4</a>
+    <a href="Week_5/Week_5.html">Week 5</a>
+    <a href="#">Week 6</a>
+    <a href="#">Week 7</a>
+    <a href="#">Week 8</a>
+    <a href="#">Week 9</a>
+    <a href="#">Week 10</a>
+   </div>
 
 <b>Week 1</b>
 This week consisted of creating our Github accounts and starting to learn the basics of Github. This is represented in the way I was able to create this page. We were also asked to find 3 different sources of music data and consider the traits of each source. 
