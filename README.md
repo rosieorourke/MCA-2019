@@ -16,7 +16,7 @@
 <h2><b>Week 1</b><h2>
 This week consisted of creating our Github accounts and starting to learn the basics of Github. This is represented in the way I was able to create this page. We were also asked to find 3 different sources of music data and consider the traits of each source. 
 
-<b>Spotify</b>
+Spotify
 <br></br>
 <i>What type of music data is contained?</i>
 An array of music data including artist, song title, album title and art, duration, date of release, record company, writers, producers,  monthly listeners, relates/similar artists. 
