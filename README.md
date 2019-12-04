@@ -12,7 +12,7 @@
     <a href="#">Week 9</a>
     <a href="#">Week 10</a>
    </div>
-
+<br></br>
 <b>Week 1</b>
 This week consisted of creating our Github accounts and starting to learn the basics of Github. This is represented in the way I was able to create this page. We were also asked to find 3 different sources of music data and consider the traits of each source. 
 
