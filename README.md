@@ -12,7 +12,8 @@
     <a href="https://rosieorourke.github.io/MCA-2019/Week_10/Week_10.html">Week 10</a>
    </div>
 <br></br>
-<b>Week 1</b>
+
+<h2><b>Week 1</b><h2>
 This week consisted of creating our Github accounts and starting to learn the basics of Github. This is represented in the way I was able to create this page. We were also asked to find 3 different sources of music data and consider the traits of each source. 
 
 <b>Spotify</b>
@@ -35,7 +36,7 @@ The dataset is presented on a consistent black background which gives the applic
 
 
 
-<b>Week 2</b>
+<h2><b>Week 2</b><h2>
 This week we had the task of transcribing a piece of music onto MuseScore. We had to find the sheet music from IMSLP which is an extensive music library. Due to my previous experience studying music and using Scalar which is a similar program to MuseScore, I transcribed the piece and offered guidance to my peers. From a brief lesson on musical notes and their values, my peers were able to follow this process. 
 I chose the piece Gymnopedie by Erik Satie due to it's simplicity, however this is still a classical piece of music so the piece still contained many interesting features that we could discuss. We successfully transcribed 8 bars within the time we had in the lab. 
 
@@ -43,7 +44,7 @@ For the individual lab task, we were asked to trancribe at least 10 bars of musi
 
 
 
-<b>Week 3</b>
+<h2><b>Week 3</b></h2>
 The group task for this week was to analyse an uncompressed music xml version of our transcribed music. I opened up the XML version in Notepad ++ and explored this version usefulness. 
 <br></br>
 
