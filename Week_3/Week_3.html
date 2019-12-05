@@ -90,6 +90,31 @@
      the coding representation is also harder to follow compared to following the staff on the MuseScore version.
      The user has to scroll past thousands of lines of coding making it quite inefficent and time consuming.
     </div> 
-   <a href="https://rosieorourke.github.io/MCA-2019/verovio.html">verovio</a>
+   <div class="header">How to use the Verovio App</div>
+    <div id="app">Verovio is loading...</div>
+    <script type="module">
+        import 'https://www.verovio.org/javascript/app/verovio-app.js';
+        
+        const options = {
+            defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+            defaultZoom: 3, // 0-7, default is 4
+            enableResponsive: true, // default is true
+            enableDocument: true // default is true
+        }
+        
+        // A MusicXML file
+        var file = 'data/Gnossienne.mei';
+        // A MEI file
+        //var file = 'https://www.verovio.org/editor/brahms.mei';
+        
+        const app = new Verovio.App(document.getElementById("app"), options);
+        fetch(file)
+            .then(function(response) {
+                return response.text();
+            })
+            .then(function(text) {
+                app.loadData(text);
+            });
+    </script>
   <body>
 </html>
