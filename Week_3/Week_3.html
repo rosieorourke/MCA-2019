@@ -63,7 +63,33 @@
     </div>
      <h2>Extracting Meaning from Audio</h2>
      <h3>Task 1:</h3>
-    <div class="info"> This is where the information will go when i do it at some point</div> 
+    <div class="info">The group task for this week was to analyse an uncompressed music xml version of our transcribed music. 
+     I opened up the XML version in Notepad ++ and explored this version usefulness.
+      </b>How are pitch, rhythm, and time represented in the XML file?</b>
+      These features are represented in a typical coding style with tags.
+      The pitch tag contains two sub tags which is 'step' and 'octave' and occasionally the subtag 'alter',
+      this is used for every single note that has been transcribed. 
+      The rhythm and time of the piece which is usually identified as a time signature features in the 'attributes' 
+      tag of the XML file. Furthermore the time signature is held in a 'time' tag which includes the direct tag of 'beats'
+      which describes the number beats in a measure, and a 'beat-type' tag which describes the type of note present.
+      Time is also represented in a unique way as the XML file describes the distance of the staff in millimetres 
+      instead of the actual duration which MuseScore presents.
+
+      <b>Is there data that is excluded from this encoding standard?</b>
+      XML does not include the dynamic changes such as the music getting louder or quieter in it's standard.
+      As these are smaller details that are not necassary within a piece 
+     it is possible that the encoding standard doesn't know to represent these details in a code.
+     <b>What are potential strengths and weaknesses of this approach?</b> 
+     This approach is useful for someone who has limited musical knowledge as it explains what each note represents. 
+     For instance the XML version includes the tag 'sign' which explains the actual note type such as a G or an F,
+     the 'line' tag then indicates which line of the staff this note appears on. 
+     This information is not presented in MuseScore as this is considered to be prior knowledge. 
+     An obvious weakness of this approach is that it does not play the audio of the piece, 
+     and it is difficult to imagine what the piece would sound like when reading numbers from a code.
+     As each note has so many details attatched to it, 
+     the coding representation is also harder to follow compared to following the staff on the MuseScore version.
+     The user has to scroll past thousands of lines of coding making it quite inefficent and time consuming.
+    </div> 
    <a href="https://rosieorourke.github.io/MCA-2019/verovio.html">verovio</a>
   <body>
 </html>
