@@ -1,6 +1,5 @@
 # MCA
 
-<b>
  <div class="menu">
     <a href="#">Week 1</a>
     <a href="">Week 2</a>
@@ -14,7 +13,7 @@
    </div>
 <br></br>
 
-<h2>Week 1<h2>
+<h2>Week 1</h2>
 Task 1: Dataset Theme
  <br></br>
   The theme for my dataset is the French composer Erik Satie and his avant-garde and experimental style. Erik Satie was known as a 'unconventional' artist of the late 19th, early 20th century, and his compositions regularly disregarded 'traditional forms and tonal structures', making him a pioneer for modernism within music. I will focus on Satie's historical piece Gnossienne: No 1 which is a simple and understated piece of music, however it is filled with techniques, grace notes, and interesting minor melodies. These features will hopefully provide some substantial metadata to analyse, as well as aid in comparing his experiemntal style of the 19th Century to the experimental style of the 21st Century.
@@ -49,7 +48,7 @@ The dataset is presented on a consistent black background which gives the applic
 Apple Music
 
 
-<h2>Week 2<h2>
+<h2>Week 2</h2>
 This week we had the task of transcribing a piece of music onto MuseScore. We had to find the sheet music from IMSLP which is an extensive music library. Due to my previous experience studying music and using Scalar which is a similar program to MuseScore, I transcribed the piece and offered guidance to my peers. From a brief lesson on musical notes and their values, my peers were able to follow this process. 
 I chose the piece Gymnopedie by Erik Satie due to it's simplicity, however this is still a classical piece of music so the piece still contained many interesting features that we could discuss. We successfully transcribed 8 bars within the time we had in the lab. 
 
