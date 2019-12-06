@@ -1,5 +1,6 @@
 # MCA
 
+<b>
  <div class="menu">
     <a href="#">Week 1</a>
     <a href="">Week 2</a>
@@ -48,18 +49,11 @@ The dataset is presented on a consistent black background which gives the applic
 Apple Music
 
 
-
-
-
-
-
 <h2>Week 2<h2>
 This week we had the task of transcribing a piece of music onto MuseScore. We had to find the sheet music from IMSLP which is an extensive music library. Due to my previous experience studying music and using Scalar which is a similar program to MuseScore, I transcribed the piece and offered guidance to my peers. From a brief lesson on musical notes and their values, my peers were able to follow this process. 
 I chose the piece Gymnopedie by Erik Satie due to it's simplicity, however this is still a classical piece of music so the piece still contained many interesting features that we could discuss. We successfully transcribed 8 bars within the time we had in the lab. 
 
 For the individual lab task, we were asked to trancribe at least 10 bars of music and consequently upload this to github. 
-
-
 
 <h2>Week 3</h2>
 The group task for this week was to analyse an uncompressed music xml version of our transcribed music. I opened up the XML version in Notepad ++ and explored this version usefulness. 
@@ -73,4 +67,4 @@ XML does not include the dynamic changes such as the music getting louder or qui
 
 <i>What are potential strengths and weaknesses of this approach?</i>
 This approach is useful for someone who has limited musical knowledge as it explains what each note represents. For instance the XML version includes the tag 'sign' which explains the actual note type such as a G or an F, the 'line' tag then indicates which line of the staff this note appears on. This information is not presented in MuseScore as this is considered to be prior knowledge. An obvious weakness of this approach is that it does not play the audio of the piece, and it is difficult to imagine what the piece would sound like when reading numbers from a code. As each note has so many details attatched to it, the coding representation is also harder to follow compared to following the staff on the MuseScore version. The user has to scroll past thousands of lines of coding making it quite inefficent and time consuming.
-
+</b>
