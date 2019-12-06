@@ -7,6 +7,8 @@
             <titleStmt>
                 <title>Gnossienne</title>
                 <respStmt>
+                  <resp>Encoded by</resp>
+                    <name>Rosie O'Rourke</name>
                     <persName role="composer">Erik Satie</persName>
                 </respStmt>
             </titleStmt>
