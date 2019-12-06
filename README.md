@@ -27,6 +27,10 @@ Task 1: Dataset Theme
  
  <b>Acoustic Data</b>
  
+ Task 2: Exisiting Manifestations Relating To My Dataset
+ <br></br>
+ I feel that my dataset is rather unique as it doesn't group music from one specific genre or time period, but instead a feeling. This feeling is one of freedom to experiment and to have fun with music, therefore inplementing humour, personality, and disregarding traditional structures. 
+
  
  <br></br>
 We were also asked to find 3 different sources of music data and consider the traits of each source. 
