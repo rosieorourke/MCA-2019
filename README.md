@@ -18,7 +18,14 @@ Task 1: Dataset Theme
  <br></br>
   The theme for my dataset is based on the French composer Erik Satie and his avant-garde and experimental style. Erik Satie was known as a 'unconventional' artist of the late 19th, early 20th century, and his compositions regularly disregarded 'traditional forms and tonal structures', making him a pioneer for modernism within music. I will focus on Satie's historical piece Gnossienne: No 1 which is a simple and understated piece of music, however it is filled with techniques, grace notes, and interesting minor melodies. These features will hopefully provide some substantial metadata to analyse, as well as aid in comparing his experimental style of the 19th Century to the experimental style of the 21st Century. Music historians have noted that Erik Satie felt every note he played, which is displayed in his lack of stucture and array of rythmic devices. Resultantly, my overall theme relates to the 'feeling' within music, and artists who take a more experimental approach with their art. 
   
+
  
+ Task 2: Exisiting Manifestations Relating To My Dataset
+ <br></br>
+ I feel that my dataset is rather unique as it doesn't group music from one specific genre or time period, but instead a feeling. This feeling is one of freedom to experiment and to have fun with music, therefore implementing humour, personality, and disregarding traditional structures. Although music in the 19th/20th Century followed more rules due to the mainstream music style being classical, 
+Erik Satie was notoriously experimental in his style and composed the Gnossiennes without time signatures or bar lines. He disliked restriction within his art, which is comparable to 21st Century works due to the vast amounts of genres which have emerged since Satie's time. A piece of music can combine multiple genres, present in Feel Like Drugs, or identify as a more recent and avant-garde genre such as Space Rock which Lobo Loco use in their song. 
+
+  
  <h3>3 Types of Data</h3>
  
  <b>Metadata/Descriptive Data</b>
@@ -26,29 +33,7 @@ Task 1: Dataset Theme
  <b>Notated Data</b>
  
  <b>Acoustic Data</b>
- 
- Task 2: Exisiting Manifestations Relating To My Dataset
  <br></br>
- I feel that my dataset is rather unique as it doesn't group music from one specific genre or time period, but instead a feeling. This feeling is one of freedom to experiment and to have fun with music, therefore implementing humour, personality, and disregarding traditional structures. Although music in the 19th/20th Century followed more rules due to the mainstream music style being classical, 
-Erik Satie was notoriously experimental in his style and composed the Gnossiennes without time signatures or bar lines. He disliked restriction within his art, which is comparable to 21st Century works due to the vast amounts of genres which have emerged since Satie's time. A piece of music can combine multiple genres, present in Feel Like Drugs, or identify as a more recent and avant-garde genre such as Space Rock which Lobo Loco use in their song. 
-
- 
- <br></br>
-We were also asked to find 3 different sources of music data and consider the traits of each source. 
-Spotify
-<br></br>
-<i>What type of music data is contained?</i>
-An array of music data including artist, song title, album title and art, duration, date of release, record company, writers, producers,  monthly listeners, relates/similar artists. 
-
-<i>How is the data presented?</i>
-The data is presented in either playlists, albums, or singles. There is an option to present the data in alphabetical order, although this is only availble on computers/laptops. 
-
-<i>What is unique or innovative about the dataset and the way it is presented?</i>
-The dataset is presented on a consistent black background which gives the application a sleek design which is not used in other music apps. Spotify also creates unique playlists weekly for users. This contains recommendations from artists similar to the ones the user 
-
-
-Apple Music
-
 
 <h2>Week 2</h2>
 This week we had the task of transcribing a piece of music onto MuseScore. We had to find the sheet music from IMSLP which is an extensive music library. Due to my previous experience studying music and using Scalar which is a similar program to MuseScore, I transcribed the piece and offered guidance to my peers. From a brief lesson on musical notes and their values, my peers were able to follow this process. 
