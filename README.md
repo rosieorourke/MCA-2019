@@ -14,8 +14,13 @@
 <br></br>
 
 <h2><b>Week 1</b><h2>
-This week consisted of creating our Github accounts and starting to learn the basics of Github. This is represented in the way I was able to create this page. We were also asked to find 3 different sources of music data and consider the traits of each source. 
-
+Task 1: Dataset Theme
+ <br></br>
+  The theme for my dataset is the French composer Erik Satie and his avant-garde and experimental style. Erik Satie was known as a 'unconventional' artist of the late 19th, early 20th century, and his compositions regularly disregarded 'traditional forms and tonal structures', making him a pioneer for modernism within music. I will focus on Satie's historical piece Gnossienne: No 1 which is a simple and understated piece of music, however it is filled with techniques, grace notes, and interesting minor melodies.
+  
+ 
+ 
+We were also asked to find 3 different sources of music data and consider the traits of each source. 
 Spotify
 <br></br>
 <i>What type of music data is contained?</i>
