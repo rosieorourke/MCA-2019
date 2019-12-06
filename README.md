@@ -3,7 +3,7 @@
  <div class="menu">
     <a href="#">Week 1</a>
     <a href="">Week 2</a>
-    <a href="">Week 3</a>
+    <a href="https://rosieorourke.github.io/MCA-2019/Week_3/Week_3.html">Week 3</a>
     <a href="https://rosieorourke.github.io/MCA-2019/Week_4/Week_4.html">Week 4</a>
     <a href="https://rosieorourke.github.io/MCA-2019/Week_5/Week_5.html">Week 5</a>
     <a href="https://rosieorourke.github.io/MCA-2019/Week_7/Week_7.html">Week 7</a>
@@ -16,10 +16,22 @@
 <h2><b>Week 1</b><h2>
 Task 1: Dataset Theme
  <br></br>
-  The theme for my dataset is the French composer Erik Satie and his avant-garde and experimental style. Erik Satie was known as a 'unconventional' artist of the late 19th, early 20th century, and his compositions regularly disregarded 'traditional forms and tonal structures', making him a pioneer for modernism within music. I will focus on Satie's historical piece Gnossienne: No 1 which is a simple and understated piece of music, however it is filled with techniques, grace notes, and interesting minor melodies.
+  The theme for my dataset is the French composer Erik Satie and his avant-garde and experimental style. Erik Satie was known as a 'unconventional' artist of the late 19th, early 20th century, and his compositions regularly disregarded 'traditional forms and tonal structures', making him a pioneer for modernism within music. I will focus on Satie's historical piece Gnossienne: No 1 which is a simple and understated piece of music, however it is filled with techniques, grace notes, and interesting minor melodies. These features will hopefully provide some substantial metadata to analyse, as well as aid in comparing his experiemntal style of the 19th Century to the experimental style of the 21st Century.
   
  
+ 3 Types of Data
  
+ Metadata/Descriptive Data
+ 
+ Notated Data
+ 
+ Acoustic Data
+ 
+ 
+ 
+ 
+ 
+ <br></br>
 We were also asked to find 3 different sources of music data and consider the traits of each source. 
 Spotify
 <br></br>
