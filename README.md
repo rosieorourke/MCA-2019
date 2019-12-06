@@ -19,16 +19,13 @@ Task 1: Dataset Theme
   The theme for my dataset is the French composer Erik Satie and his avant-garde and experimental style. Erik Satie was known as a 'unconventional' artist of the late 19th, early 20th century, and his compositions regularly disregarded 'traditional forms and tonal structures', making him a pioneer for modernism within music. I will focus on Satie's historical piece Gnossienne: No 1 which is a simple and understated piece of music, however it is filled with techniques, grace notes, and interesting minor melodies. These features will hopefully provide some substantial metadata to analyse, as well as aid in comparing his experiemntal style of the 19th Century to the experimental style of the 21st Century.
   
  
- 3 Types of Data
+ <h3>3 Types of Data</h3>
  
- Metadata/Descriptive Data
+ <b>Metadata/Descriptive Data</b>
  
- Notated Data
+ <b>Notated Data</b>
  
- Acoustic Data
- 
- 
- 
+ <b>Acoustic Data</b>
  
  
  <br></br>
