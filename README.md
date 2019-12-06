@@ -15,14 +15,13 @@
 
 <h2>Week 1</h2>
 Task 1: Dataset Theme
- <br></br>
-  The theme for my dataset is based on the French composer Erik Satie and his avant-garde and experimental style. Erik Satie was known as a 'unconventional' artist of the late 19th, early 20th century, and his compositions regularly disregarded 'traditional forms and tonal structures', making him a pioneer for modernism within music. I will focus on Satie's historical piece Gnossienne: No 1 which is a simple and understated piece of music, however it is filled with techniques, grace notes, and interesting minor melodies. These features will hopefully provide some substantial metadata to analyse, as well as aid in comparing his experimental style of the 19th Century to the experimental style of the 21st Century. Music historians have noted that Erik Satie felt every note he played, which is displayed in his lack of stucture and array of rythmic devices. Resultantly, my overall theme relates to the 'feeling' within music, and artists who take a more experimental approach with their art. 
+<br></br>
+The theme for my dataset is based on the French composer Erik Satie and his avant-garde and experimental style. Erik Satie was known as a 'unconventional' artist of the late 19th, early 20th century, and his compositions regularly disregarded 'traditional forms and tonal structures', making him a pioneer for modernism within music. I will focus on Satie's historical piece Gnossienne: No 1 which is a simple and understated piece of music, however it is filled with techniques, grace notes, and interesting minor melodies. These features will hopefully provide some substantial metadata to analyse, as well as aid in comparing his experimental style of the 19th Century to the experimental style of the 21st Century. Music historians have noted that Erik Satie felt every note he played, which is displayed in his lack of stucture and array of rythmic devices. Resultantly, my overall theme relates to the 'feeling' within music, and artists who take a more experimental approach with their art. 
   
-
- 
- Task 2: Exisiting Manifestations Relating To My Dataset
- <br></br>
- I feel that my dataset is rather unique as it doesn't group music from one specific genre or time period, but instead a feeling. This feeling is one of freedom to experiment and to have fun with music, therefore implementing humour, personality, and disregarding traditional structures. Although music in the 19th/20th Century followed more rules due to the mainstream music style being classical, 
+<br></br>
+Task 2: Exisiting Manifestations Relating To My Dataset
+<br></br>
+I feel that my dataset is rather unique as it doesn't group music from one specific genre or time period, but instead a feeling. This feeling is one of freedom to experiment and to have fun with music, therefore implementing humour, personality, and disregarding traditional structures. Although music in the 19th/20th Century followed more rules due to the mainstream music style being classical, 
 Erik Satie was notoriously experimental in his style and composed the Gnossiennes without time signatures or bar lines. He disliked restriction within his art, which is comparable to 21st Century works due to the vast amounts of genres which have emerged since Satie's time. A piece of music can combine multiple genres, present in Feel Like Drugs, or identify as a more recent and avant-garde genre such as Space Rock which Lobo Loco use in their song. 
 
   
