@@ -1,1 +1,30 @@
-This is where i add CSS to the overall HTML page to make it look good (or u know acceptable)
+<!--CSS for MEI file-->
+
+tei-TEI tei-title {
+  display: inline;
+}
+tei-TEI tei-title[level=a] {
+  quotes: "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d";
+}
+tei-TEI tei-title[level=a]:before {
+  content: open-quote;
+}
+tei-TEI tei-title[level=a]:after {
+  content: close-quote;
+}
+tei-TEI tei-title[level=a][next]:after {
+  content: "" !important;
+}
+tei-TEI tei-title[level=a][prev]:before {
+  content: "" !important;
+}
+tei-title[level=m] {
+  font-style: italic;
+}
+tei-titleStmt > tei-title {
+  display: block;
+  font-family:sans-serif;
+  font-weight: normal;
+  font-weight: bold;
+  font-size: 150%;
+}
