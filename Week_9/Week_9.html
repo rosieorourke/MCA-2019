@@ -54,6 +54,11 @@
       width: 33.33%;
       padding: 5px;
       }
+      .clearfix::after {
+       content: "";
+       clear: both;
+       display: table;
+      }
  
      </style> 
 <!--styling done-->
@@ -77,6 +82,7 @@
       pane shows the waveform (original) transformation, then decending, the Spectogram, Mel Frquency Cepstral Coefficient (MFCC),
       and finally the Chromagram.
         <br></br>
+       <div class="clearfix">
         <div class="img-container">
          <img src="dolce_panes.png" alt="Dolce Panes" width="350" height="300">
        </div>
@@ -85,23 +91,23 @@
         </div>
         <div class="img-container">
          <img src="feel_like_drugs_panes.png" alt="Feel Like Drugs Panes" width="350" height="300">
-        <div>  
+        </div>  
       </div>
-  
+      </div>
       <h3>Task 2: Creating Histograms</h3>
-      <h4>Dolce by Mise Darling</h4>
-     <img src="dolce_spectogram_histogram.png" alt="Dolce Spectogram Histogram" width="300" height="500">
-     <img src="dolce_Mel_Frequency_histogram.png" alt="Dolce MFCC histogram" width="300" height="500">
-     <img src="dolce_chromagram_histogram.png" alt="Dolce Chromagram Histogram" width="300" height="500">
-     <br></br>
+       <h4>Dolce by Mise Darling</h4>
+        <img src="dolce_spectogram_histogram.png" alt="Dolce Spectogram Histogram" width="300" height="500">
+        <img src="dolce_Mel_Frequency_histogram.png" alt="Dolce MFCC histogram" width="300" height="500">
+        <img src="dolce_chromagram_histogram.png" alt="Dolce Chromagram Histogram" width="300" height="500">
+       <br></br>
      <h4>Double Decker by Lobo Loco</h4>
-     <img src="double_decker_spectogram_histogram.png" alt="Double Decker Spectogram Histogram" width="300" height="500">
-     <img src="double_decker_Mel_Frequency_histogram.png" alt="Double Decker MFCC histogram" width="300" height="500">
-     <img src="double_decker_chromagram_histogram.png" alt="Double Decker Chromagram Histogram" width="300" height="500">
-     <br></br>
+       <img src="double_decker_spectogram_histogram.png" alt="Double Decker Spectogram Histogram" width="300" height="500">
+       <img src="double_decker_Mel_Frequency_histogram.png" alt="Double Decker MFCC histogram" width="300" height="500">
+       <img src="double_decker_chromagram_histogram.png" alt="Double Decker Chromagram Histogram" width="300" height="500">
+      <br></br>
      <h4>Feel Like Drugs by Vincent Augustus</h4>
-     <img src="feel_like_drugs_spectogram_histogram.png" alt="Dolce Spectogram Histogram" width="300" height="500">
-     <img src="feel_like_drugs_Mel_Frequency_histogram.png" alt="Dolce MFCC histogram" width="300" height="500">
-     <img src="feel_like_drugs_chromagram_histogram.png" alt="Dolce Chromagram Histogram" width="300" height="500">
+       <img src="feel_like_drugs_spectogram_histogram.png" alt="Dolce Spectogram Histogram" width="300" height="500">
+       <img src="feel_like_drugs_Mel_Frequency_histogram.png" alt="Dolce MFCC histogram" width="300" height="500">
+       <img src="feel_like_drugs_chromagram_histogram.png" alt="Dolce Chromagram Histogram" width="300" height="500">
   <body>
 </html>
