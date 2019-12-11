@@ -1,17 +1,18 @@
 <!--CSS for MEI file-->
 
 mei-fileDesc > mei-titleStmt > mei-title {
-        font-size: 28px;
+   display: block;
+   font-size: 40px;
 }
 
 mei-filedesc > mei-titleStmt > mei-respStmt > mei-persName {
-         display: block;
-        font-size: 25px;
+   display: block;
+   font-size: 35px;
 }
 
 mei-filedesc > mei-editionStmt > mei-date {
    display: block;
-  margin-top: 0.5em;
+   margin-top: 1px;
 }
 
 mei-filedesc > mei-editionStmt > mei-date::before
