@@ -58,6 +58,7 @@ mei-filedesc > mei-pubStmt > mei-address > mei-addrLine > mei-geogName::before
   font-weight: bold;
 }
 
-html {
+body {
+        font-type: Arial; 
         padding: 3px;
 }
