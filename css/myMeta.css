@@ -33,12 +33,9 @@ mei-filedesc > mei-editionStmt > mei-pubPlace::before
 
 mei-filedesc > mei-pubStmt > mei-availability > mei-useRestrict{
   display: block;
-}
-
-mei-filedesc > mei-pubStmt > mei-availability > mei-useRestrict::before
-{
-  content: "Copyright: ";
-  font-weight: bold;
+  font-style: italic;
+  margin-top: 2px;
+  margin-bottom: 2px;
 }
 
    
@@ -61,4 +58,8 @@ mei-filedesc > mei-pubStmt > mei-address > mei-addrLine > mei-geogName::before
 {
   content: "Location: ";
   font-weight: bold;
+}
+
+html {
+        padding: 3px;
 }
