@@ -5,12 +5,25 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title>Gnossienne</title>
+                <title>Gnossienne: No 1</title>
                 <respStmt>
                     <persName role="composer">Erik Satie</persName>
                 </respStmt>
             </titleStmt>
-            <pubStmt></pubStmt>
+            <pubStmt>
+               <publisher>
+		        <corpName>University of Glasgow</corpName>
+	           </publisher>
+                <address>
+                 <addrLine>
+		          <geogName>Glasgow, United Kingdom</geogName>
+	             </addrLine>
+               </address>
+            </pubStmt>
+             <editionStmt>
+                 <date>1893</date>
+                 <pubPlace>Paris</pubPlace>
+             </editionStmt>
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000001068536523">
             <appInfo xml:id="appinfo-0000001573163316">
