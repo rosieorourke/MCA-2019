@@ -10,11 +10,6 @@ mei-filedesc > mei-titleStmt > mei-respStmt > mei-persName {
         font-size: 25px;
 }
 
-mei-filedesc > mei-pubStmt > mei-publisher > mei-corpName {
-             display: block;
-         font-size: 22px;
-}
-        
 
 mei-filedesc > mei-editionStmt > mei-date {
    display: block;
@@ -43,5 +38,27 @@ mei-filedesc > mei-pubStmt > mei-availability > mei-useRestrict{
 mei-filedesc > mei-pubStmt > mei-availability > mei-useRestrict::before
 {
   content: "Copyright: ";
+  font-weight: bold;
+}
+
+   
+mei-filedesc > mei-pubStmt > mei-publisher > mei-corpName{
+  display: block;
+  margin-top: 0.5em;
+}
+
+mei-filedesc > mei-pubStmt > mei-publisher > mei-corpName::before
+{
+  content: "Published by: ";
+  font-weight: bold;
+}
+
+mei-filedesc > mei-pubStmt > mei-address > mei-addrLine > mei-geogName{
+  display: block;
+  }
+
+mei-filedesc > mei-pubStmt > mei-address > mei-addrLine > mei-geogName::before
+{
+  content: "Location: ";
   font-weight: bold;
 }
