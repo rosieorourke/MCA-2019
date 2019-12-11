@@ -14,6 +14,12 @@ mei-filedesc > mei-editionStmt > mei-date {
    margin-top: 1px;
 }
 
+mei-fileDesc > mei-titleStmt > mei-respStmt > mei-resp::before
+{
+  content: "Encoded By: " ;
+  font-weight: bold;
+}
+   
 mei-filedesc > mei-editionStmt > mei-date::before
 {
   content: "Year Released: " ;
