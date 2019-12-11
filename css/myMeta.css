@@ -1,4 +1,3 @@
-<!--CSS for MEI file-->
 
 mei-fileDesc > mei-titleStmt > mei-title {
    display: block;
@@ -47,7 +46,7 @@ mei-filedesc > mei-pubStmt > mei-publisher > mei-corpName::before
 {
   content: "Published by: ";
   font-weight: bold;
-}
+}        
 
 mei-filedesc > mei-pubStmt > mei-address > mei-addrLine > mei-geogName{
   display: block;
@@ -61,5 +60,5 @@ mei-filedesc > mei-pubStmt > mei-address > mei-addrLine > mei-geogName::before
 
 body {
         font-type: Arial; 
-        padding: 20px;
+        padding: 22px;
 }
