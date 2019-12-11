@@ -1,7 +1,6 @@
 <!--CSS for MEI file-->
 
-mei-filedesc > mei-titleStmt > mei-title {
-        display: block;
+mei-fileDesc > mei-titleStmt > mei-title {
         font-size: 28px;
 }
 
@@ -9,7 +8,6 @@ mei-filedesc > mei-titleStmt > mei-respStmt > mei-persName {
          display: block;
         font-size: 25px;
 }
-
 
 mei-filedesc > mei-editionStmt > mei-date {
    display: block;
