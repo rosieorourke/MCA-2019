@@ -35,3 +35,13 @@ mei-filedesc > mei-editionStmt > mei-pubPlace::before
    content: "Recorded in: ";
   font-weight: bold;
 }
+
+mei-filedesc > mei-pubStmt > mei-availability > mei-useRestrict{
+  display: block;
+}
+
+mei-filedesc > mei-pubStmt > mei-availability > mei-useRestrict::before
+{
+  content: "Copyright: ";
+  font-weight: bold;
+}
