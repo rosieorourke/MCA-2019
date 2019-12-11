@@ -29,7 +29,7 @@ mei-filedesc > mei-editionStmt > mei-pubPlace::before
   font-weight: bold;
 }
 
-mei-filedesc > mei-pubStmt > mei-availability > mei-useRestrict{
+mei-filedesc > mei-pubStmt > mei-useRestrict{
   display: block;
   font-style: italic;
   margin-top: 2px;
