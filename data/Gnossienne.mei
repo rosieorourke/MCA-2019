@@ -14,12 +14,12 @@
                  <date>1893</date>
                 <pubPlace>Paris</pubPlace>
              </editionStmt>
-            <pubStmt>    
-	      <availabilty>
-		<useRestrict>Gnossienne: No 1 and therefore this encoding are in the public domain in accordance to 
-		      both French and English intellectual property laws. The source is also in the public domain as the
-		      sheet music was derived from IMSLP.</useRestrict>
-	      </availability>
+            <pubStmt>  
+		<useRestrict>
+		 Gnossienne: No 1 and therefore this encoding are in the public domain in accordance to 
+		 both French and English intellectual property laws. The source is also in the public domain as the
+		 sheet music was derived from IMSLP.
+		</useRestrict>
                <publisher>
 		     <corpName>University of Glasgow</corpName>
 	       </publisher>
