@@ -4,11 +4,11 @@
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
     <meiHead>
         <fileDesc>
-            <titleStmt>
+            <titleStmt>   
+	       <respStmt>
                 <title>Gnossienne: No 1</title>
-                <respStmt>
                     <persName role="composer">Erik Satie</persName>
-                </respStmt>
+               </respStmt>
             </titleStmt>
 	      <editionStmt>
                  <date>1893</date>
