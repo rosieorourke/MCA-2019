@@ -16,9 +16,12 @@
 	           </publisher>
                 <address>
                  <addrLine>
-		          <geogName>Glasgow, United Kingdom</geogName>
-	             </addrLine>
+		    <geogName>Glasgow, United Kingdom</geogName>
+	          </addrLine>
                </address>
+		    <availabilty>
+		<useRestrict>Public Domain</useRestrict>
+	           </availability>
             </pubStmt>
              <editionStmt>
                  <date>1893</date>
