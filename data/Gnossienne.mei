@@ -9,6 +9,10 @@
                 <title>Gnossienne: No 1</title>
                     <persName role="composer">Erik Satie</persName>
                </respStmt>
+		<respStmt>
+                  <resp>Encoded by</resp>
+                  <name>Rosie O'Rourke</name>
+                </respStmt>
             </titleStmt>
 	      <editionStmt>
                  <date>1893</date>
@@ -38,6 +42,9 @@
                 </application>
             </appInfo>
         </encodingDesc>
+	   <classification>
+             <genre>Classical</genre>
+           </classification>   
     </meiHead>
     <music>
         <body>
